@@ -1,0 +1,1241 @@
+{
+  "Abhorrent Cologne": {
+    "name": "Abhorrent Cologne",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/8/89/Abhorrent_Cologne.png?version=f6931c20a7de2fb516dc3d363cb1694d",
+    "description": "Enemies have less health, but enemy damage is increased!",
+    "type": "Cursed",
+    "cost": "0 0 "
+  },
+  "Absorption Coil": {
+    "name": "Absorption Coil",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/d/d0/Absorption_Coil.png?version=47ee1dada090f824ec108ee36165af6b",
+    "description": "A percentage of damage taken charges your signature arcana!",
+    "type": "Misc",
+    "cost": "26 150 "
+  },
+  "Agni's Sparkler": {
+    "name": "Agni's Sparkler",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/1/14/Agni%27s_Sparkler.png?version=e988dfd43d4e7cd7232df623ef513777",
+    "description": "Increases ferocity of your burn status effects!",
+    "type": "Offense",
+    "cost": "23 175 "
+  },
+  "Albert's Formula": {
+    "name": "Albert's Formula",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/c0/Albert%27s_Formula.png?version=8490ffa89b7bb53f2df4b5b52dccc3a7",
+    "description": "Receive signature charge when healed!",
+    "type": "Misc",
+    "cost": "17 125 "
+  },
+  "Alchemist's Stone": {
+    "name": "Alchemist's Stone",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/b/b5/Alchemist%27s_Stone.png?version=b2f2d7d56e80afe9468aa16f3893a18f",
+    "description": "All Chaos Gems gained during the Chaos Trials are transmuted into gold!",
+    "type": "Cursed",
+    "cost": "0 0 "
+  },
+  "Amulet of Sundering": {
+    "name": "Amulet of Sundering",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/1/13/Amulet_of_Sundering.png?version=54f098e78903378ebdfa0d9b930a72c0",
+    "description": "Increases all damage dealt!",
+    "type": "Offense",
+    "cost": "10 125 "
+  },
+  "Analytical Monocle": {
+    "name": "Analytical Monocle",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/c1/Analytical_Monocle.png?version=5552ef0d3e1251160ef0919c9b6c3f9f",
+    "description": "Increases critical hit chance!",
+    "type": "Offense",
+    "cost": "10 125 "
+  },
+  "Anchor of Burden": {
+    "name": "Anchor of Burden",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/3/3f/Anchor_of_Burden.png?version=9ed1e4805ed261e2145a13c8044b77af",
+    "description": "Damage and stuns are increased but movement speed is reduced for each cursed relic owned!",
+    "type": "Cursed",
+    "cost": "0 0 "
+  },
+  "Ancient Fountain Pen": {
+    "name": "Ancient Fountain Pen",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/d/dc/Ancient_Fountain_Pen.png?version=b4c58d58b8e02566a3a8340a561e6da2",
+    "description": "Your charged signature arcana deals more damage every time you use it!",
+    "type": "Offense",
+    "cost": "22 150 "
+  },
+  "Antiquated Tabi": {
+    "name": "Antiquated Tabi",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/4/49/Antiquated_Tabi.png?version=24c1256cda3e6f870a411c9a53f59f3e",
+    "description": "Adds a small chance to evade attacks!",
+    "type": "Defense",
+    "cost": " 125 "
+  },
+  "Arcana Rewards Card": {
+    "name": "Arcana Rewards Card",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/b/ba/Arcana_Rewards_Card.png?version=00a7dfbcae44334598fe8e9a99369294",
+    "description": "All gold costs for arcana are discounted!",
+    "type": "Misc",
+    "cost": "12 100 "
+  },
+  "Armor of Greed": {
+    "name": "Armor of Greed",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/6/68/Armor_of_Greed.png?version=c612c8bf6ade33ce583067da7530fcc1",
+    "description": "Grants a significant boost in armor! Every hit taken reduces gold count.",
+    "type": "Cursed",
+    "cost": "0 0 "
+  },
+  "Armor of Resolve": {
+    "name": "Armor of Resolve",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/3/37/Armor_of_Resolve.png?version=732e5ad2f12d0e720ed1cee218173cbf",
+    "description": "Increases armor while at low health!",
+    "type": "Defense",
+    "cost": "27 175 "
+  },
+  "Assassin's Blade": {
+    "name": "Assassin's Blade",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/2/2f/Assassin%27s_Blade.png?version=15871608401a5a069ddd7a5f5d3b2b60",
+    "description": "Increases critical hit damage!",
+    "type": "Offense",
+    "cost": "26 150 "
+  },
+  "Auditor's Talisman": {
+    "name": "Auditor's Talisman",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/0/0d/Auditor%27s_Talisman.png?version=581b0111158f8b94fa37b4b1d759b1e1",
+    "description": "Increases critical hit chance at low health!",
+    "type": "Offense",
+    "cost": "26 150 "
+  },
+  "Auger of Poetry": {
+    "name": "Auger of Poetry",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/0/0c/Auger_of_Poetry.png?version=21aa26aaf1f618c888b438d786d7eb36",
+    "description": "Increases resistance to earth based attacks!",
+    "type": "Defense",
+    "cost": "15 175 "
+  },
+  "Autograph Pad": {
+    "name": "Autograph Pad",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/c1/Autograph_Pad.png?version=f120cf23c4f1a1264a120a2539bb9070",
+    "description": "Damage and movement speed is increased while signature arcana is charged!",
+    "type": "Offense",
+    "cost": "25 125 "
+  },
+  "Battery of Taranis": {
+    "name": "Battery of Taranis",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/b/bb/Battery_of_Taranis.png?version=9650de0c830dd9d37bbe97e77af375f0",
+    "description": "Increases lightning damage!",
+    "type": "Offense",
+    "cost": "14 150 "
+  },
+  "Berserker's Axe": {
+    "name": "Berserker's Axe",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/1/1c/Berserker%27s_Axe.png?version=44b8f01e8aa602604de5521386062111",
+    "description": "Increases damage dealt for a short while after taking damage!",
+    "type": "Offense",
+    "cost": "26 150 "
+  },
+  "Berserker's Helm": {
+    "name": "Berserker's Helm",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/5/52/Berserker%27s_Helm.png?version=db37bc65e8bf10c166404246c57d21d8",
+    "description": "Damage increased while at low health!",
+    "type": "Offense",
+    "cost": "26 150 "
+  },
+  "Bladed Buckler": {
+    "name": "Bladed Buckler",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/2/22/Bladed_Buckler.png?version=c93e3705ab284c657a7b77183129df7e",
+    "description": "Destroying an enemy projectile grants signature charge energy!",
+    "type": "Misc",
+    "cost": "27 175 "
+  },
+  "Blasting Sprite Aura": {
+    "name": "Blasting Sprite Aura",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/c1/Blasting_Sprite_Aura.png?version=745997b3742abd4b97096b471c232d63",
+    "description": "Summons a sprite that slows enemies! Only one sprite can be active at any time.",
+    "type": "Misc",
+    "cost": "10 125 "
+  },
+  "Boots of Frenzy": {
+    "name": "Boots of Frenzy",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/d/d9/Boots_of_Frenzy.png?version=69829923bab27ff3a8eb34cc1b01be2b",
+    "description": "Defeating enemies grants a chance to temporarily add unlimited charges to your movement arcana!",
+    "type": "Misc",
+    "cost": "26 150 "
+  },
+  "Bracers of the Beast": {
+    "name": "Bracers of the Beast",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/6/63/Bracers_of_the_Beast.png?version=c8dd560fbab9bd8866fbf528c4325979",
+    "description": "Pressing forward into an attack immediately before impact allows you to guard the attack!",
+    "type": "Defense",
+    "cost": "22 150 "
+  },
+  "Broken Plague Flask": {
+    "name": "Broken Plague Flask",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/f/f6/Broken_Plague_Flask.png?version=2176b07c42c6b4a5c9550e3b8cea5967",
+    "description": "Enemy max health is lowered, but your health is lowered as well!",
+    "type": "Cursed",
+    "cost": "0 0 "
+  },
+  "C-99 Piggy Bank": {
+    "name": "C-99 Piggy Bank",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/9/98/C-99_Piggy_Bank.png?version=3a9ae81c80a6dc7e71976cbd08b906e3",
+    "description": "Gets heavier as you progress through the trials. Drop from inventory to open.",
+    "type": "Misc",
+    "cost": "18 0 "
+  },
+  "Calcifying Bonemail": {
+    "name": "Calcifying Bonemail",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/0/0a/Calcifying_Bonemail.png?version=5665bc98fcc5f8f3c4a6101c98a53bec",
+    "description": "Increases armor for a short duration after taking damage!",
+    "type": "Defense",
+    "cost": "26 150 "
+  },
+  "Calvin's Sandy Shoes": {
+    "name": "Calvin's Sandy Shoes",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/e/ed/Calvin%27s_Sandy_Shoes.png?version=b4fb78100d84c09f5f7e097c951535a3",
+    "description": "Adds a chance to evade while at low health!",
+    "type": "Defense",
+    "cost": "26 150 "
+  },
+  "Captain's Ring": {
+    "name": "Captain's Ring",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/8/82/Captain%27s_Ring.png?version=99c480c79f14f7cc65148760b1dba59c",
+    "description": "Equipping arcana of differing elements increases damage!",
+    "type": "Offense",
+    "cost": "18 150 "
+  },
+  "Cartographer's Quill": {
+    "name": "Cartographer's Quill",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/a/ad/Cartographer%27s_Quill.png?version=828f219243a6b31e73d6c2980f8b74f0",
+    "description": "Increases damage based on how much of the map you have revealed! Damage increase lasts for the entire trial!",
+    "type": "Offense",
+    "cost": "27 175 "
+  },
+  "Chaos Scanner": {
+    "name": "Chaos Scanner",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/d/de/Chaos_Scanner.png?version=a6ccaede72bb99ea7fbc3b843ca10fb7",
+    "description": "Reveals health bars for all enemies in the Chaos Trials!",
+    "type": "Misc",
+    "cost": "24  "
+  },
+  "Charming Teddy Bear": {
+    "name": "Charming Teddy Bear",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/1/12/Charming_Teddy_Bear.png?version=f7d3e3680ad60a38018d973d368eb5c4",
+    "description": "Adds a chance to charm enemies when taking damage!",
+    "type": "Defense",
+    "cost": "26 150 "
+  },
+  "Cobalt Firestone": {
+    "name": "Cobalt Firestone",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/e/e2/Cobalt_Firestone.png?version=68bbcd896c29d3e50e905c009e1e1574",
+    "description": "Summons an aura that damages nearby enemies!",
+    "type": "Offense",
+    "cost": "27 175 "
+  },
+  "Combo Gloves": {
+    "name": "Combo Gloves",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/b/b2/Combo_Gloves.png?version=5cdc39e3d69e5c99a1dd3942564b4c97",
+    "description": "Basic arcana have an extra combo!",
+    "type": "Misc",
+    "cost": "10 150 "
+  },
+  "Conqueror's Belt": {
+    "name": "Conqueror's Belt",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/7/77/Conqueror%27s_Belt.png?version=863ecd7a7a371285a2675077e738dc66",
+    "description": "All Rogues and Archers have their spells limited! Only one Conqueror item can be in effect at a time.",
+    "type": "Misc",
+    "cost": "29  "
+  },
+  "Conqueror's Cloak": {
+    "name": "Conqueror's Cloak",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/2/2c/Conqueror%27s_Cloak.png?version=68f19e8acdb0b56cf71078095107e9cc",
+    "description": "All Mages and Summoners have their spells limited! Only one Conqueror item can be in effect at a time.",
+    "type": "Misc",
+    "cost": "29  "
+  },
+  "Conqueror's Helmet": {
+    "name": "Conqueror's Helmet",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/f/f8/Conqueror%27s_Helmet.png?version=3f7b7e341e8001181187d4331434bfdb",
+    "description": "All Knights and Lancers have their spells limited! Only one Conqueror item can be in effect at a time.",
+    "type": "Misc",
+    "cost": "29  "
+  },
+  "Covert Ops Mask": {
+    "name": "Covert Ops Mask",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/b/bd/Covert_Ops_Mask.png?version=985f2d8d06fb4051f1d7c48588fffd0d",
+    "description": "After evading an attack, all of your attacks will be critical hits for a short duration!",
+    "type": "Offense",
+    "cost": "26 150 "
+  },
+  "Crimson Clover": {
+    "name": "Crimson Clover",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/c6/Crimson_Clover.png?version=4db7cccab4b200e1175fcd86a0e1d976",
+    "description": "Critical hit chance is increased for you and all enemies!",
+    "type": "Cursed",
+    "cost": "0 0 "
+  },
+  "Critical Placebos": {
+    "name": "Critical Placebos",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/3/3a/Critical_Placebos.png?version=7a9e52ba691491180497d43f4100cb0d",
+    "description": "Makes you believe all your attacks result in critical hits!",
+    "type": "Doctor",
+    "cost": "0 200 "
+  },
+  "Cushioned Flip-flops": {
+    "name": "Cushioned Flip-flops",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/1/19/Cushioned_Flip-flops.png?version=50c78f9af8bbb0e11890aac43867312a",
+    "description": "Damage taken is expended from your signature meter while you have sufficient charge to shield the attack!",
+    "type": "Defense",
+    "cost": "28 200 "
+  },
+  "Dagger of Midas": {
+    "name": "Dagger of Midas",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/7/7f/Dagger_of_Midas.png?version=b25a96daa02d6946de9dc48828b8e63c",
+    "description": "Increases damage based on how much gold you currently have!",
+    "type": "Offense",
+    "cost": "25 125 "
+  },
+  "Dark Katana": {
+    "name": "Dark Katana",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/0/0e/Dark_Katana.png?version=8de6d45f28b103f0ce70141e14bdfe13",
+    "description": "Designed by Artisan Mathosse Feadur, this relic triples the critical hit chance for all melee arcana!",
+    "type": "Offense",
+    "cost": "15  "
+  },
+  "Dated Sunglasses": {
+    "name": "Dated Sunglasses",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/4/44/Dated_Sunglasses.png?version=8fa248e4d0e7657e37ee2acb85bdb705",
+    "description": "Enemy projectiles move slower, giving you more time to react!",
+    "type": "Misc",
+    "cost": "26 150 "
+  },
+  "Deafening Cymbals": {
+    "name": "Deafening Cymbals",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/4/4f/Deafening_Cymbals.png?version=d1bcfd3a6ab700d96867926d3537cf4f",
+    "description": "Destroys all projectiles in the area when hit by a projectile!",
+    "type": "Defense",
+    "cost": "26 150 "
+  },
+  "Demi's Teapot": {
+    "name": "Demi's Teapot",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/6/62/Demi%27s_Teapot.png?version=45438a3b3e1f057fdf92f56c6cc00ed5",
+    "description": "Increases the duration of buff arcana!",
+    "type": "Defense",
+    "cost": "27  "
+  },
+  "Destructive Abacus": {
+    "name": "Destructive Abacus",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/e/e8/Destructive_Abacus.png?version=d1d48376b37adb0a405f7121e9f737fd",
+    "description": "Defeating foes lowers active cooldowns!",
+    "type": "Misc",
+    "cost": "20 200 "
+  },
+  "Devi's Bug Spray": {
+    "name": "Devi's Bug Spray",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/d/d8/Devi%27s_Bug_Spray.png?version=bfe3a8c4a5adcfef5c1901c71cd6a806",
+    "description": "Increases potency of your poison status effects!",
+    "type": "Offense",
+    "cost": "23 175 "
+  },
+  "Dice of the Nemesis": {
+    "name": "Dice of the Nemesis",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/9/9d/Dice_of_the_Nemesis.png?version=f697d248ea2d6f3abd2e94564e2c93b3",
+    "description": "Adds a small chance of dealing massive damage with your critical hits!",
+    "type": "Offense",
+    "cost": "26 150 "
+  },
+  "Double Edged Cestus": {
+    "name": "Double Edged Cestus",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/0/04/Double_Edged_Cestus.png?version=d6c100d64bb73762f1436cbe786dd916",
+    "description": "Increase basic arcana damage! All other damage decreased.",
+    "type": "Cursed",
+    "cost": "0 0 "
+  },
+  "Double Toil": {
+    "name": "Double Toil",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/b/b9/Double_Toil.png?version=bbee681252a17647d132ef614f986170",
+    "description": "Reduces cooldowns by half but receive double damage!",
+    "type": "Cursed",
+    "cost": "0 0 "
+  },
+  "Double Trouble": {
+    "name": "Double Trouble",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/b/bc/Double_Trouble.png?version=ac4ec868a0ad3b3c99906a0dab9d3ba3",
+    "description": "Deal double damage but receive double damage!",
+    "type": "Cursed",
+    "cost": "0 0 "
+  },
+  "Ebon Wolf's Cloak": {
+    "name": "Ebon Wolf's Cloak",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/f/f7/Ebon_Wolf%27s_Cloak.png?version=045e1da881d9f163f2e768e822e05bf1",
+    "description": "Increases fire and lightning arcana damage, but receive more damage from water and earth attacks!",
+    "type": "Offense",
+    "cost": "19 175 "
+  },
+  "Elemental Pointes": {
+    "name": "Elemental Pointes",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/5/5b/Elemental_Pointes.png?version=721a2f953c67e072ff2d5829547bd816",
+    "description": "Using a dash arcana immediately after another arcana lowers cooldowns for all arcana of the same element as your dash!",
+    "type": "Misc",
+    "cost": "22 150 "
+  },
+  "Elven Ears": {
+    "name": "Elven Ears",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/9/95/Elven_Ears.png?version=eca3fa0b00afae3803515ed1e63d103e",
+    "description": "Remaining motionless for a short time causes you to disappear from sight!",
+    "type": "Defense",
+    "cost": "27  "
+  },
+  "Equestricap": {
+    "name": "Equestricap",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/8/85/Equestricap.png?version=5aca0019f76c9ece77556c28aa58977f",
+    "description": "Designed by Artisan Tacobowl8, this relic allows you to look quite dashing as you gallop to max speed with ease!",
+    "type": "Defense",
+    "cost": "14 150 "
+  },
+  "Euphie's Shawl": {
+    "name": "Euphie's Shawl",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/7/71/Euphie%27s_Shawl.png?version=2f382832a60afd77f2b870410f7ecf0f",
+    "description": "Increases armor!",
+    "type": "Defense",
+    "cost": "10 125 "
+  },
+  "Evening Gloves": {
+    "name": "Evening Gloves",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/c6/Evening_Gloves.png?version=bcc1ca4f3318a3959ce32e21feb3fe60",
+    "description": "Basic arcana chains are completed automatically!",
+    "type": "Misc",
+    "cost": "16 100 "
+  },
+  "Flak Gauntlet": {
+    "name": "Flak Gauntlet",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/4/46/Flak_Gauntlet.png?version=bd074ad160d4f9c9dec953892895d3e1",
+    "description": "Allows you to destroy enemy projectiles with melee basic arcana!",
+    "type": "Misc",
+    "cost": "14 150 "
+  },
+  "Flashy Boots": {
+    "name": "Flashy Boots",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/9/94/Flashy_Boots.png?version=825d24a5accb628400105e73b9fc22f1",
+    "description": "Allows you to triple dash but lowers movement speed!",
+    "type": "Cursed",
+    "cost": "0 0 "
+  },
+  "Fortune Cookie": {
+    "name": "Fortune Cookie",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/a/ac/Fortune_Cookie.png?version=cda001f67b48f2d2540eb6d5a639b964",
+    "description": "Randomly empowers an arcana at the beginning of each stage!",
+    "type": "Offense",
+    "cost": "27 175 "
+  },
+  "Freezing Sprite Naya": {
+    "name": "Freezing Sprite Naya",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/9/93/Freezing_Sprite_Naya.png?version=d12ef187ae26d0b756945234b3ae1d97",
+    "description": "Summons a sprite that freezes enemies! Only one sprite can be active at any time.",
+    "type": "Misc",
+    "cost": "  "
+  },
+  "Friendship Bracelet": {
+    "name": "Friendship Bracelet",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/2/2a/Friendship_Bracelet.png?version=5154ad87753ee50d5070984f965c6aeb",
+    "description": "Increase damage and movement speed when you're with a true friend!",
+    "type": "Offense",
+    "cost": "0 0 "
+  },
+  "Fuzzy Handwarmers": {
+    "name": "Fuzzy Handwarmers",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/6/6e/Fuzzy_Handwarmers.png?version=6c72c9910edb1bd7f284231f245f3c3a",
+    "description": "Prevents freeze status effect!",
+    "type": "Defense",
+    "cost": "26 150 "
+  },
+  "Gaia's Shovel": {
+    "name": "Gaia's Shovel",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/b/be/Gaia%27s_Shovel.png?version=b5c0ca7e10b8d33ebca06ea913cf4be4",
+    "description": "Increases earth damage!",
+    "type": "Offense",
+    "cost": "14 150 "
+  },
+  "Giant's Heart": {
+    "name": "Giant's Heart",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/c6/Giant%27s_Heart.png?version=410b56aa8f869bc3fcb7f953969428b7",
+    "description": "Increases max health!",
+    "type": "Defense",
+    "cost": "10 125 "
+  },
+  "Glass Cannon": {
+    "name": "Glass Cannon",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/6/6e/Glass_Cannon.png?version=0b20e3766d7a3e5568ee457dfd8f5e14",
+    "description": "Damage increased but max health is reduced!",
+    "type": "Cursed",
+    "cost": "0 0 "
+  },
+  "Glove of Midas": {
+    "name": "Glove of Midas",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/e/ed/Glove_of_Midas.png?version=d5efdbb99cd7d03cfc182de672d0e27c",
+    "description": "Increase gold gain for all wizards! Multiple gloves do not stack.",
+    "type": "Misc",
+    "cost": "10 125 "
+  },
+  "Golden Armor of Envy": {
+    "name": "Golden Armor of Envy",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/1/17/Golden_Armor_of_Envy.png?version=6f7d325de02fa2974ba2064ec9f1d6df",
+    "description": "Increases armor but store prices are increased!",
+    "type": "Cursed",
+    "cost": "0 0 "
+  },
+  "Golden Saber of Envy": {
+    "name": "Golden Saber of Envy",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/e/ec/Golden_Saber_of_Envy.png?version=43fd27361bc77a67982d972e00a402a0",
+    "description": "Increases damage but store prices are increased!",
+    "type": "Cursed",
+    "cost": "0 0 "
+  },
+  "Greased Boots": {
+    "name": "Greased Boots",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/e/e2/Greased_Boots.png?version=9d1452e20a5923dbc04d0c80ff36acfd",
+    "description": "Increases the distances traveled by dash arcana!",
+    "type": "Defense",
+    "cost": "10 150 "
+  },
+  "Grimoire of Ruin": {
+    "name": "Grimoire of Ruin",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/cd/Grimoire_of_Ruin.png?version=0e2d19bfc42e7f2e12395257faf49091",
+    "description": "Increases the damage of summoned agents!",
+    "type": "Misc",
+    "cost": "23 175 "
+  },
+  "Gummy Vitamins": {
+    "name": "Gummy Vitamins",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/1/11/Gummy_Vitamins.png?version=a508eefe50331824605b19a594e825b0",
+    "description": "Prevents poison status effect!",
+    "type": "Defense",
+    "cost": "26 150 "
+  },
+  "Health Care Card": {
+    "name": "Health Care Card",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/2/2a/Health_Care_Card.png?version=0fd86b753a92b21e91a2984e7c58f2f5",
+    "description": "Receive a discount whenever you purchase potions from the merchant!",
+    "type": "Doctor",
+    "cost": "  "
+  },
+  "Heavy Travel Jacket": {
+    "name": "Heavy Travel Jacket",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/5/54/Heavy_Travel_Jacket.png?version=8953c38a98d8c5141e374df5742bba7c",
+    "description": "Increases armor for each relic held!",
+    "type": "Defense",
+    "cost": "18 150 "
+  },
+  "Horned Halo": {
+    "name": "Horned Halo",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/b/b2/Horned_Halo.png?version=19eda98703e1eef7a6ae03925b71321d",
+    "description": "Revive with low health when defeated but consumes half of current health when picked up! This relic is destroyed on use.",
+    "type": "Cursed",
+    "cost": "0 0 "
+  },
+  "Hummingbird Feather": {
+    "name": "Hummingbird Feather",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/1/17/Hummingbird_Feather.png?version=df90a7b3863165c510f4200dc6c036fa",
+    "description": "Briefly hover over pits!",
+    "type": "Defense",
+    "cost": "22 150 "
+  },
+  "Hunter's Stiletto": {
+    "name": "Hunter's Stiletto",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/a/aa/Hunter%27s_Stiletto.png?version=473d9d64247ac944f50204c87bbcb5db",
+    "description": "Increase damage against foes that are inflicted with a status ailment.",
+    "type": "Offense",
+    "cost": "26 150 "
+  },
+  "Hyperbolic Train": {
+    "name": "Hyperbolic Train",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/a/a3/Hyperbolic_Train.png?version=115a1bc12a5630c1c0aab3e3c6f7ab5c",
+    "description": "Signature charges faster at low health!",
+    "type": "Misc",
+    "cost": "26 150 "
+  },
+  "Idealist's Mirror": {
+    "name": "Idealist's Mirror",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/5/5b/Idealist%27s_Mirror.png?version=647ff78eb37576a782efa136c2b0bf6a",
+    "description": "All arcana are empowered when at full health!",
+    "type": "Offense",
+    "cost": "18 150 "
+  },
+  "Ifrit's Matchstick": {
+    "name": "Ifrit's Matchstick",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/e/e8/Ifrit%27s_Matchstick.png?version=dd519a02be7d2427a27cd1a254d7959c",
+    "description": "Increases fire damage!",
+    "type": "Offense",
+    "cost": "14 150 "
+  },
+  "Igniting Sprite Vesa": {
+    "name": "Igniting Sprite Vesa",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/c6/Igniting_Sprite_Vesa.png?version=28612990d55dd7ff9ad56eb4cb14d062",
+    "description": "Summons a sprite that burns enemies! Only one sprite can be active at any time.",
+    "type": "Misc",
+    "cost": "18 150 "
+  },
+  "Indra's Copper Pipe": {
+    "name": "Indra's Copper Pipe",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/c3/Indra%27s_Copper_Pipe.png?version=75fa795ce9d937d88bbb903a19eb9717",
+    "description": "Increases duration of your shock status effects!",
+    "type": "Offense",
+    "cost": "23  "
+  },
+  "Infinity Marble": {
+    "name": "Infinity Marble",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/9/97/Infinity_Marble.png?version=c7dbf7fecab0f9351accb0890b6c990b",
+    "description": "Signature charge stays active until used!",
+    "type": "Misc",
+    "cost": "14  "
+  },
+  "Insignia of Legend": {
+    "name": "Insignia of Legend",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/1/1f/Insignia_of_Legend.png?version=750fe115ae90f1f949d1259e83a5efd8",
+    "description": "A crest presented only to those who have cleared the Chaos Trials!",
+    "type": "Misc",
+    "cost": "0 0 "
+  },
+  "Jewelry Box": {
+    "name": "Jewelry Box",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/5/5e/Jewelry_Box.png?version=cb4d612716e034d80011b45db714b47c",
+    "description": "Picking up chaos gems heals for a small amount. Excludes gems collected from Council members.",
+    "type": "Defense",
+    "cost": "20 200 "
+  },
+  "Journal of Midas": {
+    "name": "Journal of Midas",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/8/81/Journal_of_Midas.png?version=f649fdbf852ea931201c4d7f8aad7c63",
+    "description": "Gain gold when defeating consecutive enemies without taking damage!",
+    "type": "Misc",
+    "cost": "21 125 "
+  },
+  "Kali's Flower Diadem": {
+    "name": "Kali's Flower Diadem",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/8/8b/Kali%27s_Flower_Diadem.png?version=ca0d4dbabfdd7543f32eacac47daad0b",
+    "description": "When taking damage that would defeat you, gain full signature charge and briefly become immune to defeat!",
+    "type": "Defense",
+    "cost": "22 250 "
+  },
+  "Large Red Button": {
+    "name": "Large Red Button",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/5/51/Large_Red_Button.png?version=4dc8ec99a37a20600fec00978e283ca2",
+    "description": "Regain full health every time an exit portal is used! Max health is reduced and health potions have no effect.",
+    "type": "Cursed",
+    "cost": "0 0 "
+  },
+  "Leemo's Leaf": {
+    "name": "Leemo's Leaf",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/6/6d/Leemo%27s_Leaf.png?version=bf65f7a378255b670585c8fa9365ed28",
+    "description": "Evade all attacks while dashing!",
+    "type": "Defense",
+    "cost": "24 200 "
+  },
+  "Lei's Drum": {
+    "name": "Lei's Drum",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/2/28/Lei%27s_Drum.png?version=57ff703d3075a025a3619316e157a6c0",
+    "description": "Release a burst of lightning when taking damage!",
+    "type": "Defense",
+    "cost": "15 175 "
+  },
+  "Limited Edition Robe": {
+    "name": "Limited Edition Robe",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/c6/Limited_Edition_Robe.png?version=7c00713ca4dcec5c18c3d5d3bd191c2e",
+    "description": "Reduces damage taken to a maximum of 10% of max health!",
+    "type": "Defense",
+    "cost": "23 175 "
+  },
+  "Lotus Froststone": {
+    "name": "Lotus Froststone",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/3/33/Lotus_Froststone.png?version=55206a32dd0472b3c60eaa4758cc9c0c",
+    "description": "Summons an aura that freezes nearby enemies.",
+    "type": "Offense",
+    "cost": "27  "
+  },
+  "Memory Chainmail": {
+    "name": "Memory Chainmail",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/9/9f/Memory_Chainmail.png?version=feecbc5dce6cce524e02d1734dd13329",
+    "description": "Memorizes the last three attacks taken and reduces damage from attacks of the same type!",
+    "type": "Defense",
+    "cost": "23 175 "
+  },
+  "Merchant's Cart": {
+    "name": "Merchant's Cart",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/a/ae/Merchant%27s_Cart.png?version=bb146d92802c49d2d5bad45162349b15",
+    "description": "Increase damage based on number of relics in inventory.",
+    "type": "Offense",
+    "cost": "22 150 "
+  },
+  "Mercury's Sandals": {
+    "name": "Mercury's Sandals",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/b/bf/Mercury%27s_Sandals.png?version=70b303492cc340c938fd4b7558f65cce",
+    "description": "Increases movement speed!",
+    "type": "Defense",
+    "cost": "10 125 "
+  },
+  "Messy Prescription": {
+    "name": "Messy Prescription",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/ca/Messy_Prescription.png?version=af23d943c02b82795e14c7052218ab4f",
+    "description": "Increases healing received from all sources!",
+    "type": "Doctor",
+    "cost": "  "
+  },
+  "Mirror Shield": {
+    "name": "Mirror Shield",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/9/93/Mirror_Shield.png?version=7425780d046ba87d1dd7b8d8a4978802",
+    "description": "Summons a shield that reflects one projectile! Shield breaks after reflect and respawns on a timer.",
+    "type": "Defense",
+    "cost": "14  "
+  },
+  "Museum Ticket": {
+    "name": "Museum Ticket",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/5/5d/Museum_Ticket.png?version=2f28e32d6e6c0335c239eab27513c8f2",
+    "description": "A ticket to Lanova Museum's newly opened Chaos Trials exhibit!",
+    "type": "Misc",
+    "cost": "0 0 "
+  },
+  "Mystic Monopole": {
+    "name": "Mystic Monopole",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/4/44/Mystic_Monopole.png?version=c5fa46d3aaf53499f4b357e1cedd9690",
+    "description": "Increases knockback when striking foes!",
+    "type": "Misc",
+    "cost": "11 175 "
+  },
+  "Nerite Shell": {
+    "name": "Nerite Shell",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/4/4c/Nerite_Shell.png?version=1748aecd0e509b38aa66614ea728d989",
+    "description": "Adds a chance to slow foes!",
+    "type": "Offense",
+    "cost": "10 125 "
+  },
+  "Neve's Citrine": {
+    "name": "Neve's Citrine",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/b/bb/Neve%27s_Citrine.png?version=2f2d20ba5a91b6e041c22810b34227ff",
+    "description": "Holding seven lightning arcana increases critical chance! All arcana shocks foes!",
+    "type": "Offense",
+    "cost": "30  "
+  },
+  "Neve's Emerald": {
+    "name": "Neve's Emerald",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/9/91/Neve%27s_Emerald.png?version=338818b5964dff509ddce9eb9b960e3d",
+    "description": "Holding seven earth arcana increase health and armor and lowers stun and knockback!",
+    "type": "Defense",
+    "cost": "30  "
+  },
+  "Neve's Quartz": {
+    "name": "Neve's Quartz",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/9/91/Neve%27s_Quartz.png?version=6c8660459aa1986083eab2027855e706",
+    "description": "Holding seven air arcana increases movement speed and evasion. All arcana slows foes!",
+    "type": "Defense",
+    "cost": "30  "
+  },
+  "Neve's Ruby": {
+    "name": "Neve's Ruby",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/3/3d/Neve%27s_Ruby.png?version=4f03c9c6770ca903bd45558b3c1a1950",
+    "description": "Holding seven fire arcana increases damage! All arcana burns foes!",
+    "type": "Offense",
+    "cost": "30  "
+  },
+  "Neve's Sapphire": {
+    "name": "Neve's Sapphire",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/d/df/Neve%27s_Sapphire.png?version=2633f1e15b71ec18f8718d7e3bb564ca",
+    "description": "Holding seven water arcana reduces all cooldowns and increases healing!",
+    "type": "Misc",
+    "cost": "30  "
+  },
+  "Nocturnal Sundial": {
+    "name": "Nocturnal Sundial",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/f/f0/Nocturnal_Sundial.png?version=9c684c7ebe9395af62cc971c8c8831db",
+    "description": "Adds a chance that an arcana will not go on cooldown after use!",
+    "type": "Misc",
+    "cost": "23 175 "
+  },
+  "Nog's Heavenly Boots": {
+    "name": "Nog's Heavenly Boots",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/2/24/Nog%27s_Heavenly_Boots.png?version=64529874df1b4702baeb8284a969b72e",
+    "description": "Adds a significant chance to evade attacks but take double damage!",
+    "type": "Cursed",
+    "cost": "0 0 "
+  },
+  "Noxious Dappercap": {
+    "name": "Noxious Dappercap",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/0/06/Noxious_Dappercap.png?version=613a66f031e7f8252174a2b67ce27a03",
+    "description": "Adds a chance to poison foes!",
+    "type": "Offense",
+    "cost": "10  "
+  },
+  "Ominous Loan Note": {
+    "name": "Ominous Loan Note",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/1/1d/Ominous_Loan_Note.png?version=324507e28f6dd8014acb46a18e00bfc8",
+    "description": "Immediately receive a large sum of gold! All gold gained, with interest, will go toward paying off this debt.",
+    "type": "Cursed",
+    "cost": "0 0 "
+  },
+  "Overpriced Insurance": {
+    "name": "Overpriced Insurance",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/7/78/Overpriced_Insurance.png?version=decca56b4bca091642d8b5cb18553125",
+    "description": "Expend all gold at the start of each stage and heal for a fraction of the expended amount.",
+    "type": "Cursed",
+    "cost": "0 0 "
+  },
+  "Paronomasicon": {
+    "name": "Paronomasicon",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/0/06/Paronomasicon.png?version=d8188c4928ec46cc367a282a72646021",
+    "description": "Your attacks on council members are more pun-ishing! Enemy attacks pack an extra pun-ch.",
+    "type": "Cursed",
+    "cost": "0 0 "
+  },
+  "Pathfinder's Knapsack": {
+    "name": "Pathfinder's Knapsack",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/7/73/Pathfinder%27s_Knapsack.png?version=4b5c8a3740ccec34da275502a748e2d9",
+    "description": "On clearing the floor, receive a heal based on the map reveal percentage.",
+    "type": "Defense",
+    "cost": "28  "
+  },
+  "Pathfinder's Map": {
+    "name": "Pathfinder's Map",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/5/52/Pathfinder%27s_Map.png?version=1bc9b3eb01818014301f901566a49bd9",
+    "description": "Reveals the layout and main points of interest of the Chaos Trials!",
+    "type": "Misc",
+    "cost": "18 150 "
+  },
+  "Pazu's Favorite Hat": {
+    "name": "Pazu's Favorite Hat",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/9/9d/Pazu%27s_Favorite_Hat.png?version=7d2f9f33d31421f6e212e0832cf12b21",
+    "description": "Revive with low health when defeated! Hat can also create health orbs when dropped. This relic is destroyed on use.",
+    "type": "Defense",
+    "cost": "22 250 "
+  },
+  "Perfect Time Crystal": {
+    "name": "Perfect Time Crystal",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/2/23/Perfect_Time_Crystal.png?version=29a6fcaff6fc459c69a64180f8ba94c8",
+    "description": "Signature damage, charge rate, and decay rate increased!",
+    "type": "Offense",
+    "cost": "0 0 "
+  },
+  "Permafrost Cube": {
+    "name": "Permafrost Cube",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/c0/Permafrost_Cube.png?version=11c69dbfaccebc57a7d98d5fd0eada05",
+    "description": "Adds a chance to freeze foes!",
+    "type": "Offense",
+    "cost": "10 125 "
+  },
+  "Phoenix Talon": {
+    "name": "Phoenix Talon",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/7/76/Phoenix_Talon.png?version=83339c18025515ebbb2430e13a49b284",
+    "description": "Adds a chance to burn foes!",
+    "type": "Offense",
+    "cost": "10 150 "
+  },
+  "Phyyrnx's Hourglass": {
+    "name": "Phyyrnx's Hourglass",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/6/6b/Phyyrnx%27s_Hourglass.png?version=f8be6abb1f636cfbf7d1ddca77aaa649",
+    "description": "Designed by Artisan PerdyDarnSavvy, this relic activates when taking damage at low health and briefly removes the cooldown on all arcana!",
+    "type": "Misc",
+    "cost": "15 175 "
+  },
+  "Plaguing Sprite Dria": {
+    "name": "Plaguing Sprite Dria",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/a/ac/Plaguing_Sprite_Dria.png?version=fa2e9c6181f95ec4c0bef54ac2534160",
+    "description": "Summons a sprite that poisons enemies! Only one sprite can be active at any time.",
+    "type": "Misc",
+    "cost": "14 150 "
+  },
+  "Poem of Fiery Rime": {
+    "name": "Poem of Fiery Rime",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/c4/Poem_of_Fiery_Rime.png?version=86fccf35eba5b3d4292b3298533a88c4",
+    "description": "Increases fire and ice damage! Adds a chance to freeze and burn foes to fire and ice arcana, respectively.",
+    "type": "Offense",
+    "cost": "0 0 "
+  },
+  "Pop-up Primer": {
+    "name": "Pop-up Primer",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/ce/Pop-up_Primer.png?version=00b9d3d43a9924e1f6cc21f5ac78e213",
+    "description": "Increases the number of summoned agents, but lowers their health!",
+    "type": "Misc",
+    "cost": "28 200 "
+  },
+  "Puffy Parka": {
+    "name": "Puffy Parka",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/0/0f/Puffy_Parka.png?version=7346f7570c35b418b24a70e10b438593",
+    "description": "Evade all critical hits!",
+    "type": "Defense",
+    "cost": "24 100 "
+  },
+  "Raffle Ticket": {
+    "name": "Raffle Ticket",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/c8/Raffle_Ticket.png?version=968dc944c664ecb04c0907874d07f4c6",
+    "description": "Adds a chance that an item purchased in the Chaos Trials will be free of charge.",
+    "type": "Misc",
+    "cost": "28 200 "
+  },
+  "Raspberry Cookie Box": {
+    "name": "Raspberry Cookie Box",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/d/d8/Raspberry_Cookie_Box.png?version=24023474392c65750817256000d10e6f",
+    "description": "Health orbs drop more frequently!",
+    "type": "Defense",
+    "cost": "11 175 "
+  },
+  "Reactive Vinemail": {
+    "name": "Reactive Vinemail",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/2/20/Reactive_Vinemail.png?version=7e65db01629029a7df2e5c5330f9ba60",
+    "description": "Releases a grove of rooting vines when taking damage!",
+    "type": "Defense",
+    "cost": "19 175 "
+  },
+  "Regenerative Inkwell": {
+    "name": "Regenerative Inkwell",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/6/63/Regenerative_Inkwell.png?version=f533d934e61ad00244d4e5db798ac60a",
+    "description": "Using a fully charged signature arcana heals you instead of producing a signature spell!",
+    "type": "Defense",
+    "cost": "28  "
+  },
+  "Reinforced Bracers": {
+    "name": "Reinforced Bracers",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/b/bb/Reinforced_Bracers.png?version=00877a6c6a0fd8f57b4df9dfa9434b59",
+    "description": "Your projectiles destroy any other projectiles they strike!",
+    "type": "Misc",
+    "cost": "28 200 "
+  },
+  "Relic Rewards Card": {
+    "name": "Relic Rewards Card",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/d/da/Relic_Rewards_Card.png?version=9578431c5180a6a648902e2cd6319828",
+    "description": "All gold costs for relics are discounted!",
+    "type": "Misc",
+    "cost": "12 100 "
+  },
+  "Renewing Potion Vial": {
+    "name": "Renewing Potion Vial",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/b/b1/Renewing_Potion_Vial.png?version=be6e99545c3e51bc09afd0c57f15df75",
+    "description": "Regain a small amount of health when teleporting to the next area!",
+    "type": "Doctor",
+    "cost": "  "
+  },
+  "Resolute Svalinn": {
+    "name": "Resolute Svalinn",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/b/bb/Resolute_Svalinn.png?version=0440c78d2e9a72f33661f446493f6e34",
+    "description": "Increases resistance to fire based attacks!",
+    "type": "Defense",
+    "cost": "15 175 "
+  },
+  "Ring of Recycling": {
+    "name": "Ring of Recycling",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/8/8c/Ring_of_Recycling.png?version=f2b43433a5916345e679375122e5aadf",
+    "description": "Gain a shield every time a charged signature is not activated and times out.",
+    "type": "Defense",
+    "cost": "24 200 "
+  },
+  "Ring of Reserves": {
+    "name": "Ring of Reserves",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/6/6f/Ring_of_Reserves.png?version=95c13517d7c06215826053baafe68b86",
+    "description": "Adds more uses to all multi-use arcana!",
+    "type": "Misc",
+    "cost": "11 175 "
+  },
+  "Roxel's Pendulum": {
+    "name": "Roxel's Pendulum",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/1/17/Roxel%27s_Pendulum.png?version=905ea5c0f71cc4f6807e3f9e60269320",
+    "description": "Reduces all cooldowns!",
+    "type": "Misc",
+    "cost": "10  "
+  },
+  "Royal Flush": {
+    "name": "Royal Flush",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/cf/Royal_Flush.png?version=780dd981218e06ec8a18a3c9c5af6597",
+    "description": "Equipping arcana of the same element increases damage!",
+    "type": "Offense",
+    "cost": "18 150 "
+  },
+  "Rudra's Pinwheel": {
+    "name": "Rudra's Pinwheel",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/a/ac/Rudra%27s_Pinwheel.png?version=c2ffdc5a50e436e5ea3c38f4c8d2bc81",
+    "description": "Increases air damage!",
+    "type": "Offense",
+    "cost": "14  "
+  },
+  "Sano's Headband": {
+    "name": "Sano's Headband",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/6/61/Sano%27s_Headband.png?version=e71a38f4e65e2978f2f5734cabafcd09",
+    "description": "You can no longer be interrupted while casting an arcana!",
+    "type": "Misc",
+    "cost": "21 125 "
+  },
+  "Scissors of Vitality": {
+    "name": "Scissors of Vitality",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/0/07/Scissors_of_Vitality.png?version=0eac869591bae3f072b8ee1df8da3af3",
+    "description": "Sacrifice all standard arcana in your hand to revive from defeat!",
+    "type": "Defense",
+    "cost": "26 250 "
+  },
+  "Secret Wild Card": {
+    "name": "Secret Wild Card",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/8/8d/Secret_Wild_Card.png?version=18cfe5b98c9fecf9ecb7c8901f399da6",
+    "description": "Your signature will take longer to charge, but can now be used twice on a single charge!",
+    "type": "Offense",
+    "cost": "23  "
+  },
+  "Sharpened Stylus": {
+    "name": "Sharpened Stylus",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/0/0f/Sharpened_Stylus.png?version=bcc2987e682014b065fd1b910f83f8ac",
+    "description": "Increases damage but signature can no longer be charged!",
+    "type": "Cursed",
+    "cost": "0 0 "
+  },
+  "Shiva's Water Bottle": {
+    "name": "Shiva's Water Bottle",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/d/d3/Shiva%27s_Water_Bottle.png?version=eee35e1557c39370e3b4e30154a17a39",
+    "description": "Increases water damage!",
+    "type": "Offense",
+    "cost": "14 150 "
+  },
+  "Sidewinder's Badge": {
+    "name": "Sidewinder's Badge",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/0/0b/Sidewinder%27s_Badge.png?version=50a8d38db2dd9396908cc2d77809dbb8",
+    "description": "All melee basic arcana have a secondary hit that deals reduced damage!",
+    "type": "Offense",
+    "cost": "27 175 "
+  },
+  "Silver Spinning Top": {
+    "name": "Silver Spinning Top",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/1/18/Silver_Spinning_Top.png?version=bc1fbb4e2ebd1805c4ebcdb6979aa528",
+    "description": "Increases the activation speed of arcana but slows movement speed!",
+    "type": "Cursed",
+    "cost": "0 0 "
+  },
+  "Singing Bowl": {
+    "name": "Singing Bowl",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/2/22/Singing_Bowl.png?version=edaf89c3d8f73ab4b44c1a3e2387904c",
+    "description": "Not using arcana for a short period of time causes your next spell to be a critical hit!",
+    "type": "Offense",
+    "cost": "19 175 "
+  },
+  "Sinister Ledger": {
+    "name": "Sinister Ledger",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/6/61/Sinister_Ledger.png?version=ae9a4084e3f0115d12c0f1d4e48e3ec2",
+    "description": "Designed by Artisan Steven Wu, this relic increases all damage for every enemy defeated, but loses effectiveness when taking damage.",
+    "type": "Offense",
+    "cost": "15 175 "
+  },
+  "Sleepy Thunderstone": {
+    "name": "Sleepy Thunderstone",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/5/5b/Sleepy_Thunderstone.png?version=022a2aa1cfc90392cb8206a91287d6ba",
+    "description": "Summons an aura that calls down lightning on nearby enemies.",
+    "type": "Offense",
+    "cost": "27 175 "
+  },
+  "Sparking Sprite Etra": {
+    "name": "Sparking Sprite Etra",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/e/ef/Sparking_Sprite_Etra.png?version=cdf53d0de3e2201a6e50c4ea53c18381",
+    "description": "Summons a sprite that shocks enemies! Only one sprite can be active at any time.",
+    "type": "Misc",
+    "cost": "23  "
+  },
+  "Special Snowflake": {
+    "name": "Special Snowflake",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/2/21/Special_Snowflake.png?version=5aeb0c7e946702acd68cf8c2defced4b",
+    "description": "Defeated enemies have a chance to explode and freeze nearby enemies!",
+    "type": "Offense",
+    "cost": "26 150 "
+  },
+  "Spell Thief's Socks": {
+    "name": "Spell Thief's Socks",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/5/51/Spell_Thief%27s_Socks.png?version=faf95b12d15c512997f5d8bdd4ce6791",
+    "description": "Increase movement speed everytime an arcana is used! Speed is increased for each arcana on cooldown!",
+    "type": "Defense",
+    "cost": "27 175 "
+  },
+  "Spice Rack": {
+    "name": "Spice Rack",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/d/d3/Spice_Rack.png?version=f05bbaa92c6279072bcd87b4104ddf8d",
+    "description": "Using an arcana of a different element reduces the cooldown of the previously used arcana.",
+    "type": "Misc",
+    "cost": "28 200 "
+  },
+  "Spiked Emergency Kit": {
+    "name": "Spiked Emergency Kit",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/b/be/Spiked_Emergency_Kit.png?version=bd077597d8058281066a07cdad075b25",
+    "description": "Regenerate health while at critically low health! Max health is reduced.",
+    "type": "Cursed",
+    "cost": "0 0 "
+  },
+  "Stanza of Flames": {
+    "name": "Stanza of Flames",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/3/32/Stanza_of_Flames.png?version=44006a27d739ee51fd93788d889c4200",
+    "description": "All fire arcana cause burning but take double damage from water spells! Second half of the Poem of Fiery Rime.",
+    "type": "Cursed",
+    "cost": "0 0 "
+  },
+  "Stanza of Frost": {
+    "name": "Stanza of Frost",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/d/df/Stanza_of_Frost.png?version=767c152d63079f03a8f9ba38defb898f",
+    "description": "Increases ice damage! First half of the Poem of Fiery Rime.",
+    "type": "Offense",
+    "cost": "18 150 "
+  },
+  "Stygian Turtle Shell": {
+    "name": "Stygian Turtle Shell",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/b/bf/Stygian_Turtle_Shell.png?version=edff5446258e27ad457186f98f7e9ca8",
+    "description": "Briefly become invulnerable after taking damage in quick succession!",
+    "type": "Defense",
+    "cost": "26 150 "
+  },
+  "Super Carrot Cake": {
+    "name": "Super Carrot Cake",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/4/4c/Super_Carrot_Cake.png?version=ef0088f040ae1623138387fc9db40cae",
+    "description": "Taking damage increases your max health up to a certain limit!",
+    "type": "Defense",
+    "cost": "14 150 "
+  },
+  "Super Sunscreen": {
+    "name": "Super Sunscreen",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/c9/Super_Sunscreen.png?version=aaef34eb5fc6098dcacb13f195657333",
+    "description": "Prevents burn status effect!",
+    "type": "Defense",
+    "cost": "26 150 "
+  },
+  "Supply Crate": {
+    "name": "Supply Crate",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/4/48/Supply_Crate.png?version=196cc2e729735e082f58664968148267",
+    "description": "The relic and arcana stores will instantly restock after purchase! Health potions are of short supply and will not be restocked.",
+    "type": "Misc",
+    "cost": "22 50 "
+  },
+  "Surefire Rocket": {
+    "name": "Surefire Rocket",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/a/aa/Surefire_Rocket.png?version=15a96c5b07e8be5699d54c86ec1b0896",
+    "description": "Signature charge no longer decays while building up!",
+    "type": "Misc",
+    "cost": "11 175 "
+  },
+  "Takeout Box": {
+    "name": "Takeout Box",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/0/04/Takeout_Box.png?version=4171797bc50a8b41db782a2d68f567c8",
+    "description": "When healed for more than your maximum health, gain a shield equal to half of the excess heal amount.",
+    "type": "Defense",
+    "cost": "23 175 "
+  },
+  "Tapping Gloves": {
+    "name": "Tapping Gloves",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/c5/Tapping_Gloves.png?version=819a632792260e97279e007956bcd551",
+    "description": "Following up a basic arcana with another arcana increases its critical hit chance!",
+    "type": "Offense",
+    "cost": "23 175 "
+  },
+  "Tea of Mercy": {
+    "name": "Tea of Mercy",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/6/68/Tea_of_Mercy.png?version=ce6b77a4d457fe951c26395b83b7e94a",
+    "description": "All heals increase your max health up to a certain limit!",
+    "type": "Defense",
+    "cost": "26  "
+  },
+  "Tears of Midas": {
+    "name": "Tears of Midas",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/6/6e/Tears_of_Midas.png?version=2b821a5ce4d25de37c97a11c8299a983",
+    "description": "Gain gold when taking damage!",
+    "type": "Misc",
+    "cost": "25  "
+  },
+  "Tesla Coil": {
+    "name": "Tesla Coil",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/a/ac/Tesla_Coil.png?version=f35e3aa18c1323cda116d26be5df3aeb",
+    "description": "Adds a chance to shock foes!",
+    "type": "Offense",
+    "cost": "10 150 "
+  },
+  "Thesis on Defense": {
+    "name": "Thesis on Defense",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/7/7a/Thesis_on_Defense.png?version=00c8e305ed598622e26b3ace82fd47d4",
+    "description": "Every point of damage taken adds a page to this thesis. Every 200 pages reduces all damage taken by 1. (Maximum 1000 pages)",
+    "type": "Defense",
+    "cost": "17 125 "
+  },
+  "Three Gorges Bulwark": {
+    "name": "Three Gorges Bulwark",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/e/eb/Three_Gorges_Bulwark.png?version=a3f502d96c0f583ede98bd805e1f9745",
+    "description": "Increases resistance to water based attacks!",
+    "type": "Defense",
+    "cost": "15 175 "
+  },
+  "Tiny Crocodile Heart": {
+    "name": "Tiny Crocodile Heart",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/6/65/Tiny_Crocodile_Heart.png?version=81fc44bd6a59d4ecf3bb94eb061b576f",
+    "description": "Reduces max health but increases max health for each enemy defeated!",
+    "type": "Cursed",
+    "cost": "0 0 "
+  },
+  "Tortoise Shield": {
+    "name": "Tortoise Shield",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/c7/Tortoise_Shield.png?version=2f2c9a0595b8833d987998642af950af",
+    "description": "Increase armor but decrease damage!",
+    "type": "Cursed",
+    "cost": "0 0 "
+  },
+  "Tozy's Pocket Watch": {
+    "name": "Tozy's Pocket Watch",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/f/f6/Tozy%27s_Pocket_Watch.png?version=c8573997639d355cc9cdb900b887c791",
+    "description": "Designed by Artisan Curt 'Tozy' Toczydlowski, this relic reduces cooldowns but also reduces signature charge rate!",
+    "type": "Misc",
+    "cost": "15 175 "
+  },
+  "Tracking Suit": {
+    "name": "Tracking Suit",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/b/b2/Tracking_Suit.png?version=297f45e8ad2922ec4aefbe2045959c1a",
+    "description": "Arcana of matching elements increases resistance to that element! Requires two or more arcana of the same element.",
+    "type": "Defense",
+    "cost": "26  "
+  },
+  "Unicorn Tail": {
+    "name": "Unicorn Tail",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/2/2e/Unicorn_Tail.png?version=f014424297200e8adca69bfa517882fd",
+    "description": "Rainbows!",
+    "type": "Misc",
+    "cost": "24 100 "
+  },
+  "Vampire's Eyeglasses": {
+    "name": "Vampire's Eyeglasses",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/e/ef/Vampire%27s_Eyeglasses.png?version=020de97f4729c9f253a03c45bb51fd6d",
+    "description": "Regenerate health every time you land a critical hit!",
+    "type": "Defense",
+    "cost": "10 150 "
+  },
+  "Vampire's Fangs": {
+    "name": "Vampire's Fangs",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/9/97/Vampire%27s_Fangs.png?version=c8a4be5e468c5a63fac90e9f99c97b00",
+    "description": "Defeating enemies regenerates health but max health is reduced!",
+    "type": "Cursed",
+    "cost": "0 0 "
+  },
+  "Volatile Gemstone": {
+    "name": "Volatile Gemstone",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/4/40/Volatile_Gemstone.png?version=f266d3c946b20feaff8f8be00d91f9fa",
+    "description": "Signature charge rate and decay are increased dramatically but charged signature damage is reduced! Shell of the Perfect Time Crystal.",
+    "type": "Cursed",
+    "cost": "0 0 "
+  },
+  "Wallet of Vigor": {
+    "name": "Wallet of Vigor",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/5/57/Wallet_of_Vigor.png?version=01d59caba57d99454f26f94672e45e91",
+    "description": "Enables you to purchase items with health when you don't have sufficient gold.",
+    "type": "Misc",
+    "cost": "20  "
+  },
+  "Wanderer's Mechanism": {
+    "name": "Wanderer's Mechanism",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/c7/Wanderer%27s_Mechanism.png?version=b8b78258138f1a1a79504dc291bcb108",
+    "description": "Increases the damage of your signature arcana! Core of the Perfect Time Crystal.",
+    "type": "Offense",
+    "cost": "19 175 "
+  },
+  "Whimsical Explodium": {
+    "name": "Whimsical Explodium",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/0/0c/Whimsical_Explodium.png?version=4e929623f509ed4febe46af8266f6799",
+    "description": "Adds a chance that enemies will explode when defeated!",
+    "type": "Offense",
+    "cost": "26 125 "
+  },
+  "Yuna's Storybook": {
+    "name": "Yuna's Storybook",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/cb/Yuna%27s_Storybook.png?version=e8c1a97db43e606994a6a39ed20b6541",
+    "description": "Increases the duration of summoned agents!",
+    "type": "Misc",
+    "cost": "18 150 "
+  }
+}
